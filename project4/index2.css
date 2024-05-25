@@ -1,0 +1,20 @@
+.btn {
+    background-color: #04AA6D;
+    /* Green background color */
+    border: none;
+    /* No border */
+    color: white;
+    /* Text color */
+    padding: 15px 32px;
+    /* Padding around the text */
+    text-align: center;
+    /* Center the text horizontally */
+    text-decoration: none;
+    /* No underlines */
+    display: inline-block;
+    /* Allows setting width and height */
+    font-size: 16px;
+    /* Font size */
+    cursor: pointer;
+    /* Show pointer cursor on hover */
+}

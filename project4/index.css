@@ -1,0 +1,48 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: italic;
+    font-weight: 200;
+    margin: 10px 20px 30px 40px;
+    background-image: url(https://images.unsplash.com/photo-1715698576283-d6ee92b7157a?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+h1,
+h2,
+p {
+    text-align: center;
+}
+
+.menu {
+    width: 80%;
+    background-color: rgb(51, 212, 212);
+    margin-left: auto;
+    margin-right: auto;
+    outline: auto;
+    outline-color: rgb(86, 89, 187);
+    border-radius: 10px;
+}
+
+.item p {
+    display: inline-block;
+}
+
+.flavor {
+    padding-left: 50px;
+    text-align: left;
+    width: 75%;
+}
+
+.price {
+    text-align: right;
+    width: 75%;
+}
+
+h1 {
+    padding-top: 40px;
+}
+
+p {
+    outline: ;
+    outline-color: red;
+}
